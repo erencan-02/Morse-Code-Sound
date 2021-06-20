@@ -37,4 +37,4 @@ def play_morse_code(text=None, file_path=None, TIME_UNIT=200, FREQUENCY=1000):
 
 
 
-play_morse_code(text='sos', TIME_UNIT=150, FREQUENCY=500)
+#play_morse_code(text='sos', TIME_UNIT=150, FREQUENCY=500)
